@@ -5,4 +5,4 @@
 
 <a href="https://diogojp202.github.io/projeto_android/Android.html">SITE DO ANDROID AQUI</a>
 
-&copy; Feito por <a href="https://diogojp202.github.io/Portifolio/">Diogo Antonny</a> com apoio do <a href="https://www.cursoemvideo.com/">Curso Em Vídeo</a>
+&copy; Feito por <a href="https://diogojp202.github.io/Portifolio/" target="_blank">Diogo Antonny</a> com apoio do <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Vídeo</a>
