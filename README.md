@@ -8,6 +8,5 @@
 <ul>
   <li> HTML;
   <li> CSS;
-  <li> Javascript;
 </ul>
 &copy; Feito por <a href="https://diogojp202.github.io/Portifolio/" target="_blank">Diogo Antonny</a> com apoio do <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Vídeo</a>
